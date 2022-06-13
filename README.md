@@ -1,7 +1,7 @@
 [![MasterHead](https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559)](https://maya-a-iuga.github.io)
 <h1 align="center">Hi 👋, I'm Maya Iuga</h1>
 <h3 align="center">A passionate neuroscientist transitioning into data engineering.</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/XRdFIo6fR-oAAAAi/digital-skola-data-engineer.gif”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-a-iuga&label=Profile%20views&color=0e75b6&style=flat" alt="maya-a-iuga" /> </p>
