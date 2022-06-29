@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Pinterest Data Processing Pipeline](https://github.com/maya-a-iuga/Pinterest-Data-Pipeline)
 
-- 🌱 I’m currently learning **Apache Cassandra**
+- 🌱 I’m currently learning **Apache Airflow**
 
 - 👨‍💻 All of my projects are available at [https://maya-a-iuga.github.io](https://maya-a-iuga.github.io)
 
