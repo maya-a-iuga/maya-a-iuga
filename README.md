@@ -1,13 +1,13 @@
 [![MasterHead](https://github.com/maya-a-iuga/maya-a-iuga/blob/main/90-article-banner-2.gif)](https://github.com/maya-a-iuga)
 <h1 align="center">Hi 👋, I'm Maya Iuga</h1>
-<h3 align="center">A passionate neuroscientist transitioning into data engineering.</h3>
+<h3 align="center">A junior cloud and data engineer.</h3>
 <img align="right" src="https://github.com/maya-a-iuga/maya-a-iuga/blob/main/scaler-create-impact.gif" alt="Coding" width="400"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-a-iuga&label=Profile%20views&color=0e75b6&style=flat" alt="maya-a-iuga" /> </p>
 
-- 🔭 I’m currently working on [Pinterest Data Processing Pipeline](https://github.com/maya-a-iuga/Pinterest-Data-Pipeline)
+- 🔭 I’m currently working on building a new AWS-based data processing pipeline.
 
-- 🌱 I’m currently learning **Spark Streaming**
+- 🌱 I’m currently learning **CloudFormation**
 
 - 👨‍💻 All of my projects are available at [https://maya-a-iuga.github.io](https://maya-a-iuga.github.io)
 
