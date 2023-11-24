@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-a-iuga&label=Profile%20views&color=0e75b6&style=flat" alt="maya-a-iuga" /> </p>
 
-- 🔭 I’m currently working on building a new AWS-based data processing pipeline.
+- 🔭 I’m currently working on building an end-to-end DevOps pipeline using Docker, Kubernetes, Azure DevOps and Terraform
 
-- 🌱 I’m currently learning **CloudFormation**
+- 🌱 I’m currently preparing for the **Databricks Data Engineer Associate** exam
 
 - 👨‍💻 All of my projects are available at [https://maya-a-iuga.github.io](https://maya-a-iuga.github.io)
 
